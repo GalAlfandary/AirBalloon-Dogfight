@@ -38,11 +38,20 @@ Take to the skies in this immersive 3D Unity game where you pilot a Spitfire air
 
 ---
 
-## 🎥 Video
+## 📸 ScreenShots
 
-<video src="https://github.com/GalAlfandary/AirBalloon-Dogfight/blob/main/Recordings/Movie_008.mp4" controls width="640">
-Your browser does not support the video tag.
-</video>
+### Main Menu
+<img src="https://github.com/user-attachments/assets/e4a5af38-d0a2-4c60-bce5-2a5c647f11d3" width="500">
+
+### Controls Menu
+<img src="https://github.com/user-attachments/assets/8d36633c-42e6-401c-b109-3dfd21f68a11" width="500">
+
+### Gameplay
+<img src="https://github.com/user-attachments/assets/05ea8733-6541-45db-980e-81adc696a0a1" width="500">
+<img src="https://github.com/user-attachments/assets/62ddb978-6819-4616-9dd1-01127db12ff9" width="500">
+
+### Game Over
+<img src="https://github.com/user-attachments/assets/1c420a40-60c5-4e8c-8786-78e2af2a7a45" width="500">
 
 ---
 
